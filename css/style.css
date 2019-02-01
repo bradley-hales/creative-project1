@@ -1,0 +1,58 @@
+h2 {
+  text-align: center;
+  color: Blue;
+  font-family: 'PT Sans', sans-serif;
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  height: 35px;
+  width: 100%;
+  background-color: #343a40!important;
+  color: white;
+  text-align: center;
+}
+nav {
+  /* background-color: #0D27FF;
+  color: white; */
+}
+figure figcaption {
+    text-align: center;
+    color: Blue;
+    font-family: 'PT Sans', sans-serif;
+}
+figure {
+    display: inline-block;
+    /* margin: 50px; /* adjust as needed */ */
+}
+figure img {
+    vertical-align: top;
+}
+.roster {
+  color: Blue;
+}
+.back-image {
+ background-image: url("../images/blue_court.jpg");
+ height: 500px;
+ /* background-color: #BFBFBF; */
+ background-position: center;
+ background-repeat: no-repeat;
+ background-size: cover;
+ position: relative;
+}
+.background-text {
+  color: #01213D;
+  padding-top: 75px;
+  text-align: center;
+}
+.byu {
+  color: Blue;
+}
+table thead th td {
+  color: Blue;
+}
+.schedule {
+  color: Blue;
+}
